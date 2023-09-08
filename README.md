@@ -3,7 +3,7 @@ ABINAYA S
 212222230002
 ```
 
-# Experiment 03 Half Subtractor and Full subtractor
+# Experiment 04 Half Subtractor and Full subtractor
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
