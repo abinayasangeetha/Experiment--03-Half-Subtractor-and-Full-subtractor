@@ -1,8 +1,7 @@
 ```
-ABINAYA S
-212222230002
+ Name: ABINAYA S
+ Register Number: 212222230002
 ```
-
 # Exp 04 Half Subtractor and Full subtractor
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
